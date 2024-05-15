@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerraCH.Record.Mvc", "src\TerraCH.Record.Mvc\TerraCH.Record.Mvc.csproj", "{938694DB-867E-4702-A317-8386D0AC0C0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{FF502112-471B-4735-BF33-3CA783ECC840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{938694DB-867E-4702-A317-8386D0AC0C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938694DB-867E-4702-A317-8386D0AC0C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938694DB-867E-4702-A317-8386D0AC0C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938694DB-867E-4702-A317-8386D0AC0C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DED939C9-57E8-42C4-9961-C729D332FB18}
+	EndGlobalSection
+EndGlobal
